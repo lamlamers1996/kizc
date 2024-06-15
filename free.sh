@@ -48,33 +48,34 @@ EOF
 echo "da tao xong szn.cert "
 cat << EOF > /root/szn.key
 -----BEGIN PRIVATE KEY-----
-MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6I0EYJ03xl5Ds
-SUbjVE/T/8AXfPC81lTxd1J+9MM/E6tmNa1IKaVQ9z2lbasUwvMQFwcuG2n4Wajz
-Lfxg+1kx92VOVTR6vNBbrDR+dikFoK4SyjeWXXQh71PACvOQEWDM6zbYjLTJQbMk
-/4rCiMBr+ypJAS3zChor6maXvQjVfXQMNBShgNUAXDN8xjDa0Qh20HYT0Hu0i0h7
-qTakBtWJda4tdBFdZzo9DZLuz3ce5qDbgqTs6PlZHnCgfPoOBG40InLaN2f7BvM6
-7IFJzKhJc4V1X3CTv4AydRjS6amKeiIZuh6vXYEufKSrBwpAf6Xe1W8cY08MQK5C
-Gw5JTt51AgMBAAECggEAK0zXMDS4e4p8IpNbQ7fRyCnW+D/Oysb7RJ6y2Ki8oLhF
-J4Y2FLLna6HQO+L6qN4+58/Lkky7RpQo6sUYUEE4OxjnfqTwi9rPh3vUTFTVbyM1
-S1ayPq7nvJstet+xUCLSx2iyPgbhaW34rBMsJtvkE1p+uDPnigGgG/Yvvn2xh+P8
-+X9V2zIrKZ12tudi7bQ+WWRS6/QY3GbQb3Y5N7E6aPCyxkazzt9OTrhuPigC/0Z7
-8NeYpPqA1t7G+HIH/CUCUH4f9EMtbv3fJHcUzOiRoJ8cgTTF2SUE+DGA/PEF5zTA
-gzNupMxUaE4u44H6pCLu/qEDRT9792f8gdb+l660UwKBgQDm8ADyX8fzwiBZyvc8
-oyeaLPKjd1/v1Btc82xtr84YV8QJOjTtg4WnwqRKog1KjJO9CZ5PEAhzwyrFpJ+C
-FfwKpFgoDuJrhjtB6PFzhpnPOXEaNm/CqC5xR1F+xQ01GmglPNUV2bg1KNHhv595
-zJ8wdERWyFmnshIMKyOqLL3TewKBgQDOVpreLHaa1qsBvs24+5HA4H6qnd3bIlvo
-K08I4cbWmOuBYq+itCxTkS1PnHk2Ax1ppTd0ikz5mCQmDClcSwBYp8Uc3teFyzn+
-+hJW7uBbfW3xf+p/iLtp7T0OHsmCApffsjxli/0dZbb/2HUJhzyNIjo3OrHNuTU+
-AT8AQYU6zwKBgQDegjbXUTQOCGg1PBtVYHpi0ZYDrJxSLtMijyRU1wRDbiTjIyMm
-Cgg4aJD1nAgkYShkBqVy1ibeqxhGEGTj6RzMgCa0igrcwRvNWI1z2yfNgzIXqIWs
-T3FYEfhSpbghB017O46wG/OhvK/kzEXzDBYBkLTbzPSdYDSFZvdZGvzXiwKBgQC8
-oa342HshOIijEtStfMaVpmYGAkZU08djq1wYiZcmjiwWX6qjOsWfLARZWHnzJ8vW
-zeSxlNGkCDNb2RhiuGo7ojxwFUTAmraNY/4qHT1cRoGhGsi9CLoUr352jyy2vzoq
-lZ3jU6P1IQy4PiFYsZpoh9bisLTllqCW67q1uDBdPwKBgF6yDu8AqDNy7QsFruEA
-3oeEsr08sQ9CblLqaetIL2B3fle8yta8vwbv96Mbpi1TkzgYz6OBwAGlnqv15UB9
-8Vk4WZnAbEQiHO7jHUkfsYB3OacRxYjmn62rWgf1NTnz4FxvJrgzQ1OdIo4LRTzO
-Rax0JQeV/SxbDE0s7I7mcUzs
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCimmvbCsJY8Tp3
+FSCwCcW/5OsRJoFjVvQHzmnkTTkMjPDVLLJa60hMJYQn74skOEVY66NlTE0B5IOx
+emYPWKkoQYEVE30UYKzerqT+UC8UR4McTSE5YSLR2dBiAo9jFV8OfGrpWQ5y6kHF
+uSdE+KZiW4CcCyQHpF5eZq2gzrJXulk859oM0PlZj8120nBLZ7z28OliMJeY8gzb
+IxOdP/uN/e31CkIfz2lN89Y0oHAhNm4FQ5MOR7QQQ11MYB6mSM80YDwbaEGxAUAz
+QL42FU2o+tygJxmegW46+SvzBEliKSKta9iE62OfctlRW8nLDbkDh+HdfeZmHSNQ
+qQiAEHC1AgMBAAECggEAHeTfguYLvH/fBJEnEQ4+46xxthW68HlGRKAjkjRLUn4f
+8cU1pib/A/bawN/WmCpbP4GU6PT57GjneEvdMyGU+eBvG6GZW5N5fLglf9bcjPEn
+zt50RwEPfn65w6ceVvRRJU/k9PEpSaG9RV1otZK0Pj1929JlhZ0nt1nPvpJ5scx2
+jFtyx2Jnjb2zG3GWNl5KiyqOXDfgMIOZ6Z9yy5fDOGuG7VOxtcoUT8EJnjo5u0Xr
+GdUf47K58mz1jsFTQdQTq8taH3c90ZR7/vHtBcjPN2pBenK5E/ev4eBARivVp2Up
+DIREeD43WSBeRzrP4C6GIsBmzyep6i2MoE9AqutQoQKBgQDj41N55zDGL5mlXiAl
+KrgSSknMBwMz41JLSSIIZteDzMn6+feJ1QPX45YuCAvLHbrFp/6N+29QjtwNMnfw
+FZZMiilJL7J+CMxZl3oDGwAVjzJHm5pdXvPo/rDCizNfc65SYmDZAtJGGeEwdh7D
+QqiwNbb4RAags6PIxjtU2L5Z1QKBgQC2qWj3C/4fpTs6hRg5A/s9KFcWVARxcVR4
+CPKlNyEWS8q+Es8MH2RaanLf8n6fd9mKUNMe1uI7zV0X62ZUmtB9biS98fb/SQjp
+nc/2oVHeZXdLFEH0tqW3+45pg29UeEf98aOwp6zA64NMc3dNyOh2MZYA/GXdOT/8
+TtKVRaNLYQKBgE3XbsIrGFv6Em+MMUrAxtNokMCifJOSyJ9ywa9BAcjBgRS7obRx
+ELkDwl7C3NRquUue0LLK+gD4a24OmS1nEknev6+CHWQzuSm5NjItXOAAY9pV6mqO
+bp5dsR8i0U9/gkId3JsD/bN4T5VwI53q/RgDoRY4llL6Sa3hGI8o4gxpAoGBAK8T
+8efZNtpeJUcSCwWbK1STNeXQ4fFaDvx+lxSEotIcE1fb71hPPoDrRvAgHf37gidx
+EOqeTHnFfVVP6+Vr/io7SDxHj9dgyYoiGRLrzOy9lHoCELXd2zldhELeF/d+0oI0
++hB4przDADZm9hM4XpfrLzwCsCA6n3nWk0FAXiQBAoGAOTrLBO9iJ0InAO2kkJvl
+gww7k+ySKjrj4fMTYowVbUHd2Q6UaslBUZger/xRXXRACUMVvXPCb5pYVivXKhxC
+MKWlJO2yzdDFlG3iTQUhDZdt4aAC3upKPsdBMMXbWYmSQGnfVz/tLhZdVc9DlzQ5
+pROLIfyhEsiw64oJigTgDWw=
 -----END PRIVATE KEY-----
+
 
 EOF
 echo "da tao xong szn.key"
@@ -98,7 +99,7 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, V2board, NewV2board, PMpanel, Proxypanel, V2RaySocks
     ApiConfig:
-      ApiHost: "https://vpngame.pro"
+      ApiHost: "https://4gnhatban.fun"
       ApiKey: "shizune1996shizune1996"
       NodeID: ${v2ray_node_id}
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
@@ -150,7 +151,7 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, V2board, NewV2board, PMpanel, Proxypanel, V2RaySocks
     ApiConfig:
-      ApiHost: "https://vpngame.pro"
+      ApiHost: "https://4gnhatban.fun"
       ApiKey: "shizune1996shizune1996"
       NodeID: ${trojan_node_id}
       NodeType: Trojan # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
